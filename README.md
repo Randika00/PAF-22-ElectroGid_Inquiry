@@ -1,1 +1,3 @@
-# PAF-22-ElectroGid_Inquiry
+# PAF-22-ElectroGid_Inquiry_Management
+An automated system that enables a firm to treat every customer with respect. It is made to increase staff members' ability to handle client enquiries properly and effectively.
+Records, bills,monitors, and methodically handles the many queries that are received through various channels (SMS, calls, emails, or through our app offering). No question goes unanswered thanks to the system's thoughtful design. The system aids in sorting out queries in accordance with corporate policies so that they may be handled by the designated employees. Technology stacks are Java,HTML,Tomcat, Eclipes IDE and Bootstrap. 
